@@ -1,0 +1,43 @@
+/* contact icons effects start here */
+
+@keyframes float {
+    0% {
+        box-shadow: 0 5px 15px 0px rgba(202, 202, 202, 0.644);
+        transform: translatey(0px);
+   }
+    50% {
+        box-shadow: 0 25px 15px 0px rgba(211, 209, 209, 0.664);
+        transform: translatey(-20px);
+   }
+    100% {
+        box-shadow: 0 5px 15px 0px rgba(212, 211, 211, 0.678);
+        transform: translatey(0px);
+   }
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    box-sizing: border-box;
+    border: 8px rgb(255, 255, 255) solid;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;
+    margin:45px;
+}
+.avatar img {
+    width: 100%;
+    height: auto;
+}
+
+@media only screen and (max-width: 1200px) {
+    .avatar{
+        border: 4px rgb(255, 255, 255) solid;
+        height: auto;
+        width: auto;
+    }
+}
+
+/* contact icons effects end here */
