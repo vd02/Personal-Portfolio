@@ -59,7 +59,7 @@ button_projects.addEventListener('click', function () {
         <li>Learnt about the various uses of Bootstrap</li>
         
     </ul>
-    <h2><a href="www.facebook.com">Snake Game</a></h2>
+    <h2><a href="https://vd02.github.io/Snake-Game/index.html">Snake Game</a></h2>
     <ul>
         <li>Got to know about implementing JavaScript features</li>
         
@@ -84,7 +84,7 @@ button_projects.addEventListener('click', function () {
         <li>Learnt about the various uses of Bootstrap</li>
         
     </ul>
-    <h2>Snake Game</h2>
+    <h2><a href="https://vd02.github.io/Snake-Game/index.html">Snake Game</a></h2>
     <ul>
         <li>Got to know about implementing JavaScript features</li>
         
