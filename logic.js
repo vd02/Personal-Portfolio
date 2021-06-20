@@ -49,12 +49,12 @@ button_skills.addEventListener('click', function () {
 button_projects.addEventListener('click', function () {
 
     changing_content.innerHTML = `<div class="info">
-    <h2><a href="www.facebook.com">Resposive Blog Template</a></h2>
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Resposive Blog Template</a></h2>
     <ul>
         <li>Understood the structuring of a basic website</li>
         <li>Got to know about the implementation of various features of HTML and CSS</li>
     </ul>
-    <h2><a href="www.facebook.com">Resposive Restaurant Website</a></h2>
+    <h2><a href="https://vd02.github.io/Bootstrap/">Resposive Restaurant Website</a></h2>
     <ul>
         <li>Learnt about the various uses of Bootstrap</li>
         
@@ -74,12 +74,12 @@ button_projects.addEventListener('click', function () {
 button_projects.addEventListener('click', function () {
 
     mob_projects.innerHTML = `<div class="info">
-    <h2>Resposive Blog Template</h2>
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Resposive Blog Template</a></h2>
     <ul>
         <li>Understood the structuring of a basic website</li>
         <li>Got to know about the implementation of various features of HTML and CSS</li>
     </ul>
-    <h2>Resposive Restaurant Website</h2>
+    <h2><a href="https://vd02.github.io/Bootstrap/">Resposive Restaurant Website</a></h2>
     <ul>
         <li>Learnt about the various uses of Bootstrap</li>
         
