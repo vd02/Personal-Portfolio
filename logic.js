@@ -48,21 +48,22 @@ button_skills.addEventListener('click', function () {
 
 button_projects.addEventListener('click', function () {
 
-    changing_content.innerHTML = `<div class="info">
-    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Resposive Blog Template</a></h2>
+    changing_content.innerHTML = `<div class="info top">
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Expense Tracker (using React)</a></h2>
     <ul>
-        <li>Understood the structuring of a basic website</li>
-        <li>Got to know about the implementation of various features of HTML and CSS</li>
+        <li>Simple expense tracker react application.</li>
     </ul>
-    <h2><a href="https://vd02.github.io/Bootstrap/">Resposive Restaurant Website</a></h2>
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Optical Character Recognition</a></h2>
     <ul>
-        <li>Learnt about the various uses of Bootstrap</li>
-        
+        <li>Optical Character Recognition (OCR) tool that reads custom written input with the help of Google and Microsoft enabled voice systems with modifiable pitch and voice rate.</li>
     </ul>
     <h2><a href="https://vd02.github.io/Snake-Game/index.html">Snake Game</a></h2>
     <ul>
-        <li>Got to know about implementing JavaScript features</li>
-        
+        <li>JavaScript based animated snake game.</li>
+    </ul>
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Resposive Blog Template</a></h2>
+    <ul>
+        <li>HTML and CSS based responsive blog template.</li>
     </ul>
     <div class="more-projects">
     <h3>More projects Coming Soon!</h3>
@@ -73,21 +74,22 @@ button_projects.addEventListener('click', function () {
 
 button_projects.addEventListener('click', function () {
 
-    mob_projects.innerHTML = `<div class="info">
-    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/index.html">Resposive Blog Template</a></h2>
+    mob_projects.innerHTML = `<div class="info top">
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Expense Tracker (using React)</a></h2>
     <ul>
-        <li>Understood the structuring of a basic website</li>
-        <li>Got to know about the implementation of various features of HTML and CSS</li>
+        <li>Simple expense tracker react application.</li>
     </ul>
-    <h2><a href="https://vd02.github.io/Bootstrap/index.html">Resposive Restaurant Website</a></h2>
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Optical Character Recognition</a></h2>
     <ul>
-        <li>Learnt about the various uses of Bootstrap</li>
-        
+        <li>Optical Character Recognition (OCR) tool that reads custom written input with the help of Google and Microsoft enabled voice systems with modifiable pitch and voice rate.</li>
     </ul>
     <h2><a href="https://vd02.github.io/Snake-Game/index.html">Snake Game</a></h2>
     <ul>
-        <li>Got to know about implementing JavaScript features</li>
-        
+        <li>JavaScript based animated snake game.</li>
+    </ul>
+    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Resposive Blog Template</a></h2>
+    <ul>
+        <li>HTML and CSS based responsive blog template.</li>
     </ul>
     <div class="more-projects">
     <h3>More projects Coming Soon!</h3>
