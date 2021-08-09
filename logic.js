@@ -49,11 +49,11 @@ button_skills.addEventListener('click', function () {
 button_projects.addEventListener('click', function () {
 
     changing_content.innerHTML = `<div class="info top">
-    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Expense Tracker (using React)</a></h2>
+    <h2><a href="">Expense Tracker (using React)</a></h2>
     <ul>
         <li>Simple expense tracker react application.</li>
     </ul>
-    <h2><a href="https://vd02.github.io/Responsive-Blog-Template/">Optical Character Recognition</a></h2>
+    <h2><a href="https://vd02.github.io/speech-transitioner/">Optical Character Recognition</a></h2>
     <ul>
         <li>Optical Character Recognition (OCR) tool that reads custom written input with the help of Google and Microsoft enabled voice systems with modifiable pitch and voice rate.</li>
     </ul>
