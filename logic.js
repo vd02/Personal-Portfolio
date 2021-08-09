@@ -16,7 +16,7 @@ button_skills.addEventListener('click', function () {
     changing_content.innerHTML = `<div class="info">
     <h2>SKILLS</h2>
     <ul>
-        <li>Intermediate level knowledge of HTML, CSS</li>
+        <li>Intermediate level knowledge of HTML and CSS</li>
         <li>Beginner level knowledge of Java and JavaScript</li>
         <li>Intermediate level knowledge of Bootstrap 5</li>
         <li>Beginner level knowledge of React.js</li>
